@@ -1,0 +1,23 @@
+"use client";
+import React from "react";
+import Typewriter from "typewriter-effect";
+
+function Type() {
+  return (
+    <Typewriter
+      options={{
+        strings: [
+          "Frontend Developer",
+          "Backend Developer",
+          "Full-Stack Developer",
+          "Web Developer"
+        ],
+        autoStart: true,
+        loop: true,
+        deleteSpeed: 50,
+      }}
+    />
+  );
+}
+
+export default Type;
