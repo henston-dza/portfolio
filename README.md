@@ -89,8 +89,8 @@ This project is licensed under the MIT License.
 
 ## 📧 Contact
 
-Henston Melroy Dsouza - [LinkedIn](https://www.linkedin.com/in/jagadeesh-b-042b38208/) - [Email](mailto:jagadeesh26062002@gmail.com)
+Henston Melroy Dsouza - [LinkedIn](https://www.linkedin.com/in/henston-dza/) - [Email](mailto:[EMAIL_ADDRESS])
 
-Project Link: [GitHub](https://github.com/Jagadeeshftw/Next_Level_Portfolio)
+Project Link: [GitHub]( https://github.com/henston-dza/portfolio)
 
 Made with ❤️ by Henston Melroy Dsouza
