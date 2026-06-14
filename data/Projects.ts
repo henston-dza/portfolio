@@ -1,8 +1,8 @@
 import svg from "./svg";
-import CulinaryDelights from "../Assets/Projects/CulinaryDelights.png";
+import CulinaryDelights from "../Assets/Projects/culinarydelights.png";
 import SwatchhCity from "../Assets/Projects/SwatchhCity.png";
 import portfolio from "../Assets/Projects/Portfolio.png";
-import TradeLegends from "../Assets/Projects/TradeLegends.png";
+import TradeLegends from "../Assets/Projects/tradelegends.png";
 
 const Projects = [
   {

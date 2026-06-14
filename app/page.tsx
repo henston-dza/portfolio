@@ -20,7 +20,7 @@ export default function Home() {
                 </span>
               </h1>
               <h1 className="heading-name text-5xl font-extrabold">
-                I&apos;M
+                I&apos;m
                 <LinkPreview
                   url="https://www.linkedin.com/in/henston-melroy-dsouza/"
                   className="font-bold"
