@@ -28,7 +28,7 @@ function Home2() {
              , I enjoy developing scalable applications that combine clean design with robust functionality.
               <br />
               <br />
-             Beyond coding, I'm constantly exploring new technologies, improving my problem-solving skills,
+             Beyond coding, I&apos;m constantly exploring new technologies, improving my problem-solving skills,
              and working on projects that challenge me to grow as a developer. I believe in writing maintainable code,
              creating intuitive user experiences, and continuously pushing the boundaries of what I can build.
             </p>
