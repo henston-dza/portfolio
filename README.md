@@ -89,7 +89,7 @@ This project is licensed under the MIT License.
 
 ## 📧 Contact
 
-Henston Melroy Dsouza - [LinkedIn](https://www.linkedin.com/in/henston-dza/) - [Email](mailto:[EMAIL_ADDRESS])
+Henston Melroy Dsouza - [LinkedIn](https://www.linkedin.com/in/henston-melroy-dsouza/) - [Email](mailto:henstondsouza388@gmail.com)
 
 Project Link: [GitHub]( https://github.com/henston-dza/portfolio)
 
