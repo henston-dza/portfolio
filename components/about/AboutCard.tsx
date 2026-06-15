@@ -29,9 +29,9 @@ function AboutCard() {
             </li>
           </ul>
           <p className="purple mt-4">
-            &quot;Let the world know of your existence&quot;{" "}
+            &quot;The technology you use impresses no one. The experience you create with it is everything&quot;{" "}
           </p>
-          <footer className="blockquote-footer mt-2">- Henston Melroy Dsouza</footer>
+          <footer className="blockquote-footer mt-2">- Sean Gerety</footer>
         </blockquote>
       </div>
     </div>
