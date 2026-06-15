@@ -66,7 +66,7 @@ npm run build
 
 ### 🌐 Deployment
 
-This project is deployed using Netlify. You can view the live site [here](https://jagadeeshftw.netlify.app/).
+This project is deployed using Netlify. You can view the live site [here](https://henston-dza.vercel.app/).
 
 ## 📈 Performance Optimizations
 
