@@ -150,8 +150,8 @@ const Projects = [
       },
     ],
     Image: portfolio,
-    DemoLink: " ",
-    ProjectLink: " ",
+    DemoLink: "https://henston-dza.vercel.app/",
+    ProjectLink: "https://github.com/henston-dza/portfolio",
   },
   {
     Id: 4,
