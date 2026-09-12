@@ -23,6 +23,14 @@ import PostgreSQL from "../Assets/svg/PostgreSQL.svg"
 import WebSockets from "../Assets/svg/WebSockets.svg"
 import Express from "../Assets/svg/Express.svg"
 import Jwt from "../Assets/svg/Jwt.svg"
+import Php from "../Assets/svg/Php.svg"
+import Mysql from "../Assets/svg/Mysql.svg"
+import Xampp from "../Assets/svg/Xampp.svg"
+import Hostinger from "../Assets/svg/Hostinger.svg"
+import Python from "../Assets/svg/Python.svg"
+import Playwright from "../Assets/svg/Playwright.svg"
+import Sqlite from "../Assets/svg/Sqlite.svg"
+import Openai from "../Assets/svg/Openai.svg"
 const svg = {
   p5Js: p5Js,
   nextJs: Nextjs,
@@ -49,6 +57,14 @@ const svg = {
   fastapi: FastAPI,
   postgresql: PostgreSQL,
   websockets: WebSockets,
+  php: Php,
+  mysql: Mysql,
+  xampp: Xampp,
+  hostinger: Hostinger,
+  python: Python,
+  playwright: Playwright,
+  sqlite: Sqlite,
+  openai: Openai,
 };
 
 export default svg;

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <rect width="128" height="128" rx="24" fill="#003B57"/>
+  <path fill="#00A3E0" d="M32 38c0-4 4-8 8-8h48c4 0 8 4 8 8v16H32V38zm0 24h64v16H32V62zm0 24h64v16c0 4-4 8-8 8H40c-4 0-8-4-8-8V86z"/>
+  <text x="64" y="74" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="22" fill="#FFFFFF" text-anchor="middle">SQLite</text>
+</svg>
