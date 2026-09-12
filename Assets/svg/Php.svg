@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <ellipse cx="64" cy="64" rx="60" ry="36" fill="#777BB4"/>
+  <text x="64" y="75" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="34" fill="#FFFFFF" text-anchor="middle" letter-spacing="-1">php</text>
+</svg>

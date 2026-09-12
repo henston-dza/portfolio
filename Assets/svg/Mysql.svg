@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <rect width="128" height="128" rx="24" fill="#00758F"/>
+  <path fill="#F29111" d="M38 78c4-12 16-20 28-20 16 0 24 10 32 10 6 0 12-4 14-8 1 8-4 18-14 18-9 0-17-9-30-9-10 0-18 6-22 14-3-1-6-3-8-5z"/>
+  <text x="64" y="105" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="20" fill="#FFFFFF" text-anchor="middle">MySQL</text>
+</svg>
